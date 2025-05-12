@@ -46,3 +46,10 @@ A HQ tem como objetivo tornar o início na programação mais acessível e visua
 - **Kanban Sprint 1 (GitHub Projects):** [Clique aqui](https://github.com/users/RenatoNazzari/projects/1/views/1?layout_template=board) 
 
 ---
+
+## 📘 Quadrinho TechNarrativa Finalizado
+
+- Optamos por disponibilizar as imagens dos quadruinhos enumerados conforme a sequência da história.
+- Os arquivos foram disponibilizados na branch princiapl.
+
+---
