@@ -50,6 +50,6 @@ A HQ tem como objetivo tornar o início na programação mais acessível e visua
 ## 📘 Quadrinho TechNarrativa Finalizado
 
 - Optamos por disponibilizar as imagens dos quadruinhos enumerados conforme a sequência da história.
-- Os arquivos foram disponibilizados na branch princiapl.
+- Os arquivos foram disponibilizados na branch principal.
 
 ---
