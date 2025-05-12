@@ -43,7 +43,6 @@ A HQ tem como objetivo tornar o início na programação mais acessível e visua
 ## 🔗 Links de Planejamento do Projeto
 
 - **Product Backlog (Issues):** [Clique aqui](https://github.com/RenatoNazzari/technarrativa-hq/issues)
-- **Sprint 1 (Milestone):** [Clique aqui](https://github.com/RenatoNazzari/technarrativa-hq/milestone/1)
 - **Kanban Sprint 1 (GitHub Projects):** [Clique aqui](https://github.com/users/RenatoNazzari/projects/1/views/1?layout_template=board) 
 
 ---
